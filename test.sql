@@ -1,0 +1,1 @@
+select * from `dbt-course-420917.jaffle_shop.customers`
